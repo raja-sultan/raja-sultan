@@ -1,6 +1,6 @@
 ### Hi there 👋, Raja Sultan
 #### Native Android | Web Development
-![Native Android | Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Native Android | Web Development](https://github.com/RajaSultan/RajaSultan/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
  I have a good grip on research & development proficient in front-end technologies including HTML5, CSS3,Bootstrap5, JavaScript along with frameworks and libraries like React and Angular Js and I also have a good knowledge of android SDK.
 
