@@ -14,7 +14,7 @@
  * ⚛ React Js
  * 📱 Native Android Development
  * ♾ Game Design (Unity)
- * - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+
 
 - 🔭 I’m currently working on upwork as a front end developer 
 - 🌱 I’m currently learning Angular and Flutter 
