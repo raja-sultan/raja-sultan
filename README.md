@@ -9,6 +9,8 @@
  
  * ❄ HTML
  * ❄ CSS
+ * ✔  Scss
+ * ✔  Jquery
  * ✔ JavaScript
  * 🅱 Bootstrap
  * ⚛ React Js
