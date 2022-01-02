@@ -9,9 +9,10 @@
  
  * ❄ HTML
  * ❄ CSS
- * ✔  Scss
- * ✔  Jquery
+ * ✔ Scss
+ * ✔ Jquery
  * ✔ JavaScript
+ * ✔ Svg
  * 🅱 Bootstrap
  * ⚛ React Js
  * 📱 Native Android Development
