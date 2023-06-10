@@ -1,6 +1,27 @@
 # 💫 About Me:
-Hi, I am Raja Sultan! <br><br>I worked as a front-end developer having expertise in web designing, and web development making responsive sites PSD to Html, Figma to Html, XD to Html, and creating custom sites using HTML5, CSS3, JavaScript, and Bootstrap, React & Next Js using Material Ui or React Bootstrap. 
+Hi, I am Raja Sultan! 
 
+I worked as a front-end developer having expertise in web designing, and web development making responsive sites  PSD to Html, Figma to Html, XD  to Html, and creating custom sites using HTML5, CSS3, JavaScript, and Bootstrap, React using Material Ui or React Bootstrap.  I will develop a responsive website for you and ensure that the design follows high-quality and creative aesthetic guidelines.
+
+The services I offer are :
+
+➡ React Js <br>
+➡ Redux / Redux Toolkit <br>
+➡ Material UI <br>
+➡ React Bootstrap <br>
+➡ HTML5 <br>
+➡ CSS3 / SCSS <br>
+➡ JavaScript <br>
+➡ Bootstrap 3/4/5 <br>
+➡ Adobe Xd | Figma to Html <br>
+➡SVG <br>
+➡ Git <br>
+➡ Website Redesign <br>
+➡ Website Customization <br>
+➡ Responsive Design <br>
+➡ Pixel Perfect Design <br>
+➡ Adobe XD <br>
+➡ Figma
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-sultan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajusultan456) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Raja-Sultan-18) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rajasul1122) 
