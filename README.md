@@ -40,7 +40,7 @@ The services I offer are :
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/rajasul1122)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RajaSultan&limit=5&theme=dark&combine_all_yearly_contributions=true)
