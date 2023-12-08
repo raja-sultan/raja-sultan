@@ -1,6 +1,8 @@
 # 🙋🏼‍♂️ Hi, I am Raja Sultan! 
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-sultan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajusultan456) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Raja-Sultan-18) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rajasul1122) 
+[![](https://visitcount.itsvg.in/api?id=RajaSultan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-sultan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajusultan456) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Raja-Sultan-18) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rajasul1122) 
 
 I worked as a front-end developer having expertise in web designing, and web development making responsive sites  PSD to Html, Figma to Html, XD  to Html, and creating custom sites using HTML5, CSS3, JavaScript, and Bootstrap, React using Material Ui or React Bootstrap. I will develop a responsive website for you and ensure that the design follows high-quality and creative aesthetic guidelines.
 
@@ -47,7 +49,5 @@ The services I offer are :
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=RajaSultan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
