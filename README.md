@@ -4,27 +4,35 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-sultan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajusultan456) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Raja-Sultan-18) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rajasul1122) 
 
-I worked as a front-end developer having expertise in web designing, and web development making responsive sites  PSD to Html, Figma to Html, XD  to Html, and creating custom sites using HTML5, CSS3, JavaScript, and Bootstrap, React using Material Ui or React Bootstrap. I will develop a responsive website for you and ensure that the design follows high-quality and creative aesthetic guidelines.
+I am a skilled Front End Developer specializing in Typescript, React, and Next.js, with a proficiency in crafting seamless user interfaces using Material UI. With a passion for creating visually appealing and highly functional websites, I bring a wealth of experience in front-end development to your projects.
+
+My expertise lies in leveraging cutting-edge web technologies to deliver responsive and dynamic user experiences. I am committed to staying ahead of industry trends, ensuring that your projects benefit from the latest advancements in front-end development. Whether you need a captivating website, a user-friendly application, or a polished e-commerce platform, I have the skills to bring your vision to life.
 
 The services I offer are :
 
-➡ React Js <br>
-➡ Redux / Redux Toolkit <br>
-➡ Material UI <br>
-➡ React Bootstrap <br>
-➡ HTML5 <br>
-➡ CSS3 / SCSS <br>
-➡ JavaScript <br>
-➡ Bootstrap 3/4/5 <br>
-➡ Adobe Xd | Figma to Html <br>
-➡SVG <br>
-➡ Git <br>
-➡ Website Redesign <br>
-➡ Website Customization <br>
-➡ Responsive Design <br>
-➡ Pixel Perfect Design <br>
-➡ Adobe XD <br>
-➡ Figma
+➡ React Js </br>
+➡ Next Js </br>
+➡ Redux / Redux Toolkit </br>
+➡ Redux Thunk / RTK Query </br>
+➡ Yup & React Hook Form </br>
+➡ React Charts / Apex Charts </br>
+➡ Material UI </br>
+➡ Styled Components </br>
+➡ React Bootstrap </br>
+➡ HTML5 </br>
+➡ CSS3 / SCSS </br>
+➡ JavaScript </br>
+➡ Adobe Xd | Figma to Html </br>
+➡ SVG </br>
+➡ Git / Github / Bitbucket </br>
+➡ Website Customization </br>
+➡ Responsive Design </br>
+➡ Pixel Perfect Design </br>
+➡ Cross-Browser Compatibility </br>
+➡ Performance Optimization </br>
+
+Let's work together to elevate your web presence and ensure a positive user experience for your audience. Contact me today, and let's turn your ideas into reality!
+
 
 
 # 💻 Tech Stack:
